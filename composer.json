@@ -21,6 +21,9 @@
     "php": "~8.1.0 || ~8.2.0 || ~8.3.0",
     "getkirby/composer-installer": "^1.1"
   },
+  "replace": {
+    "moritzebeling/kirby-panel-button": "1.0.0"
+  },
   "keywords": [
     "php",
     "kirby",
