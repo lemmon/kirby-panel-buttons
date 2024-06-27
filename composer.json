@@ -1,0 +1,37 @@
+{
+  "name": "lemmon/kirby-panel-buttons",
+  "description": "Kirby panel buttons field to open or trigger URL or a webhook",
+  "version": "1.0.0",
+  "type": "kirby-plugin",
+  "homepage": "https://github.com/lemmon/kirby-panel-buttons",
+  "time": "2024-06-21",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jakub Pelák",
+      "homepage": "https://www.lemmonjuice.com/"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/lemmon/kirby-panel-buttons/issues",
+    "source": "https://github.com/lemmon/kirby-panel-buttons",
+    "docs": "https://github.com/lemmon/kirby-panel-buttons"
+  },
+  "require": {
+    "php": "~8.1.0 || ~8.2.0 || ~8.3.0",
+    "getkirby/composer-installer": "^1.1"
+  },
+  "keywords": [
+    "php",
+    "kirby",
+    "plugin",
+    "kirby-plugin",
+    "kirby-cms",
+    "button",
+    "buttons",
+    "field",
+    "panel",
+    "webhook",
+    "trigger"
+  ]
+}
