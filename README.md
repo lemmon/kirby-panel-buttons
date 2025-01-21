@@ -51,8 +51,8 @@ npm run dev
 
 Roadmap
 
--   [ ] Add multilang support
--   [ ] Add a buttons section that allows to add some text and multiple buttons
+-   [x] Multilang support
+-   [ ] Multiple buttons
 
 ## Credit
 
