@@ -36,6 +36,14 @@ link_button:
     url: https://example.com/ # url to open (default: false)
     open: true
     # disabled: true # (default: false)
+
+multilang_support:
+    type: buttons
+    label: toolbar.button.code # translate by reference
+    text: # provide exact translations
+        en: Reset code
+        is: Endurstilla kóða
+        sk: Resetovať kód
 ```
 
 ## Development
